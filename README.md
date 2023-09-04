@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KhangMBui
-- 👀 I’m interested in develop applications
-- 🌱 I’m currently learning Java, C#, Python,...
+- 👋 Hi, I’m @KhangMBui, a WSU Software Development enthusiast.
+- 👀 I love developing and coding with Java and Python, while also engaging in other programming courses.
+- 🌱 I’m currently exploring the world of Web-development and AI...
 - 💞️ I’m looking to collaborate on learning more and more programming
 
 
