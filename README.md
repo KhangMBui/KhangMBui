@@ -1,10 +1,95 @@
-- 👋 Hi, I’m @KhangMBui, a WSU Software Development enthusiast.
-- 👀 I love developing and coding with Java and Python, while also engaging in other programming courses.
-- 🌱 I’m currently exploring the world of Web-development and AI...
-- 💞️ I’m looking to collaborate on learning more and more programming
+# 𝕯𝖗𝖊𝖆𝖉𝕾𝖈𝖗𝖔𝖑𝖑 𝖔𝖋 𝕶𝖍𝖆𝖓𝖌 𝕭𝖚𝖎  
+🔥 *Code Alchemist* | 🧪 *Digital Necromancer* | ⚡ *Full-Stack Warlock*  
+![Dark Sigil](./assets/profile-pic.png)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=70&lines=𝕴𝖓𝖛𝖔𝖐𝖎𝖓𝖌+𝕯𝖆𝖗𝖐+𝕮𝖔𝖉𝖊+𝕽𝖎𝖙𝖚𝖆𝖑𝖘;𝕮𝖔𝖓𝖏𝖚𝖗𝖎𝖓𝖌+𝕽𝖊𝖆𝖈𝖙𝖎𝖔𝖓𝖘+𝕯𝖆𝖎𝖑𝖞;𝕭𝖑𝖆𝖈𝖐+𝕸𝖆𝖌𝖎𝖈+𝕴𝖓+𝕯𝖎𝖌𝖎𝖙𝖆𝖑+𝕽𝖊𝖆𝖑𝖒𝖘" alt="Typing SVG" />
+</p>
 
-<!---
-KhangMBui/KhangMBui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧿 𝕯𝖆𝖗𝖐 𝕻𝖗𝖔𝖕𝖍𝖊𝖈𝖞
+```diff
++ 𝕬 𝕾𝖍𝖆𝖉𝖔𝖜𝖇𝖔𝖚𝖓𝖉 𝕱𝖚𝖑𝖑-𝕾𝖙𝖆𝖈𝖐 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 𝖜𝖍𝖔 𝖘𝖕𝖊𝖈𝖎𝖆𝖑𝖎𝖟𝖊𝖘 𝖎𝖓:  
+! 𝕽𝖊𝖆𝖈𝖙.𝖏𝖘 𝕹𝖊𝖈𝖗𝖔𝖒𝖆𝖓𝖈𝖞  
+! 𝕹𝖔𝖉𝖊.𝖏𝖘 𝕰𝖓𝖈𝖍𝖆𝖓𝖙𝖒𝖊𝖓𝖙𝖘  
+! 𝕻𝖞𝖙𝖍𝖔𝖓 𝕯𝖆𝖗𝖐 𝕬𝖗𝖙𝖘  
+! 𝕯𝖆𝖙𝖆𝖇𝖆𝖘𝖊 𝕾𝖔𝖚𝖑 𝕻𝖔𝖚𝖗𝖎𝖓𝖌
+```
+
+## 📜 𝕬𝖗𝖈𝖆𝖓𝖊 𝕶𝖓𝖔𝖜𝖑𝖊𝖉𝖌𝖊
+# 𝕯𝖆𝖗𝖐 𝕿𝖔𝖒𝖊 𝖔𝖋 𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌 (2023-2026)
++ 𝕭.𝕾. 𝕮𝖔𝖒𝖕𝖚𝖙𝖊𝖗 𝕾𝖈𝖎𝖊𝖓𝖈𝖊  
++ 𝕲𝖕𝖆: 3.76  
+! 𝕮𝖚𝖗𝖗𝖊𝖓𝖙𝖑𝖞 𝖘𝖚𝖒𝖒𝖔𝖓𝖎𝖓𝖌: 𝕽𝖊𝖆𝖈𝖙 𝕯𝖊𝖒𝖔𝖓𝖘, 𝕹𝖔𝖉𝖊 𝕰𝖑𝖉𝖗𝖎𝖙𝖈𝖍 𝕾𝖕𝖎𝖗𝖎𝖙𝖘
+
+# 𝕬𝖇𝖞𝖘𝖒𝖆𝖑 𝕱𝖔𝖚𝖓𝖉𝖆𝖙𝖎𝖔𝖓𝖘 (2021-2023)
++ 𝕬.𝕾. 𝕮𝖔𝖒𝖕𝖚𝖙𝖊𝖗 𝕾𝖈𝖎𝖊𝖓𝖈𝖊  
++ 𝕲𝖕𝖆: 3.96  
+! 𝕱𝖔𝖗𝖌𝖊𝖉 𝖇𝖆𝖘𝖎𝖈 𝖘𝖕𝖊𝖑𝖑𝖘 𝖎𝖓: 𝕵𝖆𝖛𝖆, 𝕻𝖞𝖙𝖍𝖔𝖓, 𝕮++
+
+## ⚔️ 𝕯𝖆𝖗𝖐 𝕬𝖗𝖘𝖊𝖓𝖆𝖑
++ 𝕻𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖎𝖓𝖌 𝕿𝖔𝖓𝖌𝖚𝖊𝖘:  
+! 𝕵𝖆𝖛𝖆 | 𝕻𝖞𝖙𝖍𝖔𝖓 | 𝕮# | 𝕵𝖆𝖛𝖆𝕾𝖈𝖗𝖎𝖕𝖙 | 𝕾𝕼𝕷 | 𝕮++  
++ 𝕰𝖑𝖉𝖗𝖎𝖙𝖈𝖍 𝕱𝖗𝖆𝖒𝖊𝖜𝖔𝖗𝖐𝖘:  
+! 𝕽𝖊𝖆𝖈𝖙.𝖏𝖘 | 𝕹𝖊𝖝𝖙.𝖏𝖘 | 𝕹𝖔𝖉𝖊.𝖏𝖘 | 𝕱𝖑𝖆𝖘𝖐  
++ 𝕮𝖗𝖞𝖕𝖙𝖎𝖈 𝕯𝖆𝖙𝖆𝖇𝖆𝖘𝖊𝖘:  
+! 𝕸𝖔𝖓𝖌𝖔𝕯𝕭 | 𝕾𝕼𝕷𝖎𝖙𝖊 | 𝕻𝖔𝖘𝖌𝕽𝕰𝕾𝕼𝕷  
++ 𝕯𝖆𝖗𝖐 𝕮𝖑𝖔𝖚𝖉 𝕽𝖎𝖙𝖚𝖆𝖑𝖘:  
+! 𝕬𝕎𝕾 | 𝕽𝖊𝖓𝖉𝖊𝖗 | 𝕹𝖊𝖙𝖑𝖎𝖋𝖞 | 𝕯𝖔𝖈𝖐𝖊𝖗
+
+## 🦇 𝕮𝖔𝖛𝖊𝖓 𝕰𝖓𝖌𝖆𝖌𝖊𝖒𝖊𝖓𝖙𝖘
+# 🧙♂️ 𝕬𝖗𝖈𝖍𝖒𝖆𝖌𝖊 𝖔𝖋 𝕮𝖔𝖉𝖊 & 𝕬𝖑𝖈𝖍𝖊𝖒𝖞 (2024-𝕻𝖗𝖊𝖘𝖊𝖓𝖙)
+! 𝕷𝖊𝖆𝖉𝖎𝖓𝖌 𝖙𝖍𝖊 "𝕭𝖊𝖘𝖙 𝕭𝖞 𝕹𝖔𝖙𝖎𝖘" 𝖘𝖈𝖗𝖔𝖑𝖑 - 𝖆 �𝖊𝖇 𝖆𝖕𝖕 𝖙𝖍𝖆𝖙 𝖕𝖗𝖊𝖉𝖎𝖈𝖙𝖘 𝖋𝖔𝖔𝖉 𝖘𝖕𝖔𝖎𝖑𝖆𝖌𝖊  
+! 𝕸𝖊𝖓𝖙𝖔𝖗𝖎𝖓𝖌 𝖆𝖈𝖔𝖑𝖞𝖙𝖊𝖘 𝖎𝖓 𝖙𝖍𝖊 �𝖆𝖞𝖘 𝖔𝖋 𝕲𝖎𝖙 𝖆𝖓𝖉 𝕽𝖊𝖆𝖈𝖙 𝕾𝖕𝖊𝖑𝖑𝖈𝖆𝖘𝖙𝖎𝖓𝖌
+
+# 🔗 𝕮𝖍𝖆𝖎𝖓𝖐𝖊𝖊𝖕𝖊𝖗 𝖔𝖋 𝕸𝖔𝖇𝖎𝖑𝖊 𝕽𝖊𝖑𝖎𝖈𝖘 (2023-2024)
+! 𝕱𝖔𝖗𝖌𝖊𝖉 𝖆 𝖈𝖆𝖗 𝖘𝖊𝖈𝖚𝖗𝖎𝖙𝖞 𝖆𝖕𝖕 𝖚𝖘𝖎𝖓𝖌 𝕽𝖊𝖆𝖈𝖙 𝕹𝖆𝖙𝖎𝖛𝖊'𝖘 𝖊𝖑𝖉𝖗𝖎𝖙𝖈𝖍 𝖘𝖈𝖗𝖔𝖑𝖑𝖘
+
+# 🔮 𝕲𝖊𝖗𝖔𝖓𝖙𝖊𝖈𝖍 𝕽𝖎𝖙𝖚𝖆𝖑𝖎𝖘𝖙 (2023-2024)
+! 𝕬𝖓𝖆𝖑𝖞𝖟𝖊𝖉 𝖊𝖑𝖉𝖊𝖗𝖑𝖞 𝖒𝖔𝖙𝖎𝖔𝖓𝖘 𝖙𝖔 𝖙𝖗𝖆𝖎𝖓 𝕬𝕴 𝖉𝖊𝖒𝖔𝖓𝖘
+
+## 🔮 𝕱𝖔𝖗𝖇𝖎𝖉𝖉𝖊𝖓 𝕮𝖗𝖊𝖆𝖙𝖎𝖔𝖓𝖘
++ 🕯️ 𝕭𝖊𝖘𝖙 𝕭𝖞 𝕹𝖊𝖈𝖗𝖔𝖒𝖆𝖓𝖈𝖞  
+! 𝕽𝖊𝖆𝖈𝖙.𝖏𝖘 | 𝕱𝖑𝖆𝖘𝖐 | 𝕻𝖔𝖘𝖌𝕽𝕰𝕾𝕷  
+! 𝕯𝖆𝖗𝖐 𝖕𝖗𝖊𝖉𝖎𝖈𝖙𝖎𝖔𝖓𝖘 𝖔𝖋 𝖋𝖔𝖔𝖉 𝖘𝖕𝖔𝖎𝖑𝖆𝖌𝖊  
+[🌑 View Ritual](https://best-by-notification.onrender.com/) | [💀 Code Bones](https://github.com/WSU-Software-Development-Club/best-by-notification)
+
++ 🔍 𝕹𝖚𝖙𝖗𝖎𝕾𝖈𝖗𝖞 (𝕳𝖆𝖈𝖐𝖆𝖙𝖍𝖔𝖓 𝕯𝖊𝖒𝖔𝖓)  
+! 𝕹𝖊𝖝𝖙.𝖏𝖘 | 𝕿𝖆𝖎𝖑𝖜𝖎𝖓𝖉𝕮𝕾𝕾 | 𝕱𝖎𝖌𝖒𝖆  
+! 𝕾𝖈𝖆𝖓𝖘 𝖓𝖚𝖙𝖗𝖎𝖙𝖎𝖔𝖓 𝖑𝖆𝖇𝖊𝖑𝖘 𝖋𝖔𝖗 𝖉𝖆𝖗𝖐 𝖕𝖆𝖙𝖍𝖔𝖌𝖊𝖓𝖘  
+[🌑 Cursed Demo](https://nutriscan-ruby.vercel.app/welcome) | [💀 Blood Pact](https://github.com/KhangMBui/NutriScan)
+
++ 🌩️ 𝕎𝖊𝖆𝖙𝖍𝖊𝖗𝖎𝖓𝖌 𝖂𝖎𝖙𝖍 𝕸𝖊 (𝕾𝖙𝖔𝖗𝖒𝖈𝖆𝖑𝖑𝖊𝖗 𝕰𝖉𝖎𝖙𝖎𝖔𝖓)  
+! 𝕰𝖝𝖕𝖗𝖊𝖘𝖘.𝖏𝖘 | 𝕰𝕵𝕾 | 𝕿𝖆𝖎𝖑𝖜𝖎𝖓𝖉𝕮𝕾𝕾  
+! 𝕮𝖔𝖓𝖏𝖚𝖗𝖘 𝖜𝖊𝖆𝖙𝖍𝖊𝖗 𝖉𝖊𝖒𝖔𝖓𝖘 𝖋𝖗𝖔𝖒 𝖙𝖍𝖊 𝖆𝖇𝖞𝖘𝖘  
+[💀 Code Bones](https://github.com/KhangMBui/Weathering-With-Me)
+
+## 🏆 𝕭𝖑𝖆𝖈𝖐𝖊𝖓𝖊𝖉 𝕬𝖈𝖍𝖎𝖊𝖛𝖊𝖒𝖊𝖓𝖙𝖘
++ 🖤 𝕯𝖎𝖌𝖎𝖙𝖆𝖑 𝕬𝖌𝕬𝕴𝕯 𝕳𝖔𝖗𝖗𝖔𝖗 (2025)  
+! 2𝖓𝖉 𝕻𝖗𝖎𝖟𝖊: 𝕾𝖓𝖔𝖜𝖕𝖆𝖈𝖐 𝕻𝖗𝖊𝖉𝖎𝖈𝖙𝖎𝖔𝖓 𝖂𝖎𝖙𝖍 𝕷𝕾𝕿𝕸 𝕯𝖊𝖒𝖔𝖓𝖘  
+[📜 Dark Scroll](https://badgr.com/public/assertions/lpGheFBkSoqMjw1FWCNg0g)
+
++ ☠️ 𝕬𝕴 𝕱𝖔𝖗 𝕮𝖍𝖆𝖔𝖘 𝕳𝖆𝖈𝖐𝖆𝖙𝖍𝖔𝖓 (2024)  
+! 𝖂𝖎𝖓𝖓𝖊𝖗: 𝕹𝖚𝖙𝖗𝖎𝖙𝖎𝖔𝖓 𝕾𝖈𝖆𝖓𝖓𝖎𝖓𝖌 𝕯𝖊𝖒𝖔𝖓  
+[🔮 Ritual Documentation](https://devpost.com/software/nutriscan-z4owgh)
+
+## 🩸 𝕭𝖑𝖔𝖔𝖉 𝕻𝖆𝖈𝖙𝖘
+! 🖤 𝕭𝖑𝖔𝖔𝖉 𝕻𝖆𝖈𝖙: [khang.bui@wsu.edu](mailto:khang.bui@wsu.edu)  
+! 🔗 𝕾𝖔𝖚𝖑 𝕮𝖍𝖆𝖎𝖓: [LinkedIn](https://www.linkedin.com/in/khangmbui/)  
+! 💀 𝕮𝖔𝖉𝖊 𝕲𝖗𝖆𝖛𝖊𝖞𝖆𝖗𝖉: [GitHub](https://github.com/KhangMBui)  
+! 🌑 𝕯𝖆𝖗𝖐 𝕻𝖔𝖗𝖙𝖆𝖑: [Portfolio](https://khangmbuiportfolio.netlify.app/)  
+
+# 𝕿𝖍𝖊 𝖀𝖓𝖍𝖔𝖑𝖞 𝕸𝕴𝕿 𝕷𝖎𝖈𝖊𝖓𝖘𝖊  
+! 𝕯𝖔 𝖓𝖔𝖙 𝖗𝖊𝖕𝖗𝖔𝖉𝖚𝖈𝖊 𝖙𝖍𝖊𝖘𝖊 𝖘𝖕𝖊𝖑𝖑𝖘 𝖜𝖎𝖙𝖍𝖔𝖚𝖙 𝖕𝖗𝖔𝖕𝖊𝖗 𝖘𝖆𝖈𝖗𝖎𝖋𝖎𝖈𝖊
+
+<details> <summary>🦇 𝕾𝖚𝖒𝖒𝖔𝖓 𝕽𝖆𝖛𝖊𝖓</summary>
+                       ,,,     
+                     ,;;'(    
+           (\.---./) /' ;'    
+          /'       `\ /  <    
+         |  O     O  |\   \   
+         |           | \   |  
+         \         /   "-. |  
+          '._____.'       |/  
+            / \   / \    /    
+          _/   \_/   \_      
+</details> ```
