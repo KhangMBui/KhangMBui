@@ -66,6 +66,7 @@ Real-time weather forecasting web application
 **2nd Place - Digital AgATH0N 2025**  
 Developed AI-powered snowpack prediction model using PyTorch  
 [Credential](https://agaid.org/digital-agath0n-2025/)
+[Certificate](./AgAIDCertificate.pdf)
 
 **Winner - AI For Change Hackathon 2024**  
 Created NutriScan nutrition analysis tool  
@@ -73,4 +74,4 @@ Created NutriScan nutrition analysis tool
 
 ## 📬 Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khang.bui@wsu.edu)
-[![Resume](https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/KhangBui-Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./KhangBui-Resume.pdf)
