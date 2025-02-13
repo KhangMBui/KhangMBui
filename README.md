@@ -65,7 +65,7 @@ Real-time weather forecasting web application
 ## 🏆 Awards
 **2nd Place - Digital AgATH0N 2025**  
 Developed AI-powered snowpack prediction model using PyTorch  
-[Certificate](./assets/AgAIDCertificate.pdf)
+[Credential](https://agaid.org/digital-agath0n-2025/)
 
 **Winner - AI For Change Hackathon 2024**  
 Created NutriScan nutrition analysis tool  
