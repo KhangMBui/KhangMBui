@@ -1,82 +1,76 @@
-# 𝕯𝖗𝖊𝖆𝖉𝕾𝖈𝖗𝖔𝖑𝖑 𝖔𝖋 𝕶𝖍𝖆𝖓𝖌 𝕭𝖚𝖎  
-🔥 *Code Alchemist* | 🧪 *Digital Necromancer* | ⚡ *Full-Stack Warlock*  
+# Khang Bui - Software Developer Portfolio
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=70&lines=𝕴𝖓𝖛𝖔𝖐𝖎𝖓𝖌+𝕯𝖆𝖗𝖐+𝕮𝖔𝖉𝖊+𝕽𝖎𝖙𝖚𝖆𝖑𝖘;𝕮𝖔𝖓𝖏𝖚𝖗𝖎𝖓𝖌+𝕽𝖊𝖆𝖈𝖙𝖎𝖔𝖓𝖘+𝕯𝖆𝖎𝖑𝖞;𝕭𝖑𝖆𝖈𝖐+𝕸𝖆𝖌𝖎𝖈+𝕴𝖓+𝕯𝖎𝖌𝖎𝖙𝖆𝖑+𝕽𝖊𝖆𝖑𝖒𝖘" alt="Typing SVG" />
-</p>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://khangmbuiportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khangmbui)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhangMBui)
 
-## 🧿 𝕯𝖆𝖗𝖐 𝕻𝖗𝖔𝖕𝖍𝖊𝖈𝖞
-```diff
-+ 𝕬 𝕾𝖍𝖆𝖉𝖔𝖜𝖇𝖔𝖚𝖓𝖉 𝕱𝖚𝖑𝖑-𝕾𝖙𝖆𝖈𝖐 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 𝖜𝖍𝖔 𝖘𝖕𝖊𝖈𝖎𝖆𝖑𝖎𝖟𝖊𝖘 𝖎𝖓:  
-! 𝕽𝖊𝖆𝖈𝖙.𝖏𝖘 𝕹𝖊𝖈𝖗𝖔𝖒𝖆𝖓𝖈𝖞  
-! 𝕹𝖔𝖉𝖊.𝖏𝖘 𝕰𝖓𝖈𝖍𝖆𝖓𝖙𝖒𝖊𝖓𝖙𝖘  
-! 𝕻𝖞𝖙𝖍𝖔𝖓 𝕯𝖆𝖗𝖐 𝕬𝖗𝖙𝖘  
-! 𝕯𝖆𝖙𝖆𝖇𝖆𝖘𝖊 𝕾𝖔𝖚𝖑 𝕻𝖔𝖚𝖗𝖎𝖓𝖌
-```
+## 📚 Education
+**Washington State University**  
+*B.S. Computer Science* | Expected April 2026 | GPA: 3.76
 
-## 📜 𝕬𝖗𝖈𝖆𝖓𝖊 𝕶𝖓𝖔𝖜𝖑𝖊𝖉𝖌𝖊
-# 𝕯𝖆𝖗𝖐 𝕿𝖔𝖒𝖊 𝖔𝖋 𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌 (2023-2026)
-+ 𝕭.𝕾. 𝕮𝖔𝖒𝖕𝖚𝖙𝖊𝖗 𝕾𝖈𝖎𝖊𝖓𝖈𝖊  
-+ 𝕲𝖕𝖆: 3.76  
-! 𝕮𝖚𝖗𝖗𝖊𝖓𝖙𝖑𝖞 𝖘𝖚𝖒𝖒𝖔𝖓𝖎𝖓𝖌: 𝕽𝖊𝖆𝖈𝖙 𝕯𝖊𝖒𝖔𝖓𝖘, 𝕹𝖔𝖉𝖊 𝕰𝖑𝖉𝖗𝖎𝖙𝖈𝖍 𝕾𝖕𝖎𝖗𝖎𝖙𝖘
+**Seattle Central College**  
+*A.S. Computer Science* | Graduated June 2023 | GPA: 3.96
 
-# 𝕬𝖇𝖞𝖘𝖒𝖆𝖑 𝕱𝖔𝖚𝖓𝖉𝖆𝖙𝖎𝖔𝖓𝖘 (2021-2023)
-+ 𝕬.𝕾. 𝕮𝖔𝖒𝖕𝖚𝖙𝖊𝖗 𝕾𝖈𝖎𝖊𝖓𝖈𝖊  
-+ 𝕲𝖕𝖆: 3.96  
-! 𝕱𝖔𝖗𝖌𝖊𝖉 𝖇𝖆𝖘𝖎𝖈 𝖘𝖕𝖊𝖑𝖑𝖘 𝖎𝖓: 𝕵𝖆𝖛𝖆, 𝕻𝖞𝖙𝖍𝖔𝖓, 𝕮++
+## 💻 Technical Skills
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-## ⚔️ 𝕯𝖆𝖗𝖐 𝕬𝖗𝖘𝖊𝖓𝖆𝖑
-+ 𝕻𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖎𝖓𝖌 𝕿𝖔𝖓𝖌𝖚𝖊𝖘:  
-! 𝕵𝖆𝖛𝖆 | 𝕻𝖞𝖙𝖍𝖔𝖓 | 𝕮# | 𝕵𝖆𝖛𝖆𝕾𝖈𝖗𝖎𝖕𝖙 | 𝕾𝕼𝕷 | 𝕮++  
-+ 𝕰𝖑𝖉𝖗𝖎𝖙𝖈𝖍 𝕱𝖗𝖆𝖒𝖊𝖜𝖔𝖗𝖐𝖘:  
-! 𝕽𝖊𝖆𝖈𝖙.𝖏𝖘 | 𝕹𝖊𝖝𝖙.𝖏𝖘 | 𝕹𝖔𝖉𝖊.𝖏𝖘 | 𝕱𝖑𝖆𝖘𝖐  
-+ 𝕮𝖗𝖞𝖕𝖙𝖎𝖈 𝕯𝖆𝖙𝖆𝖇𝖆𝖘𝖊𝖘:  
-! 𝕸𝖔𝖓𝖌𝖔𝕯𝕭 | 𝕾𝕼𝕷𝖎𝖙𝖊 | 𝕻𝖔𝖘𝖌𝕽𝕰𝕾𝕼𝕷  
-+ 𝕯𝖆𝖗𝖐 𝕮𝖑𝖔𝖚𝖉 𝕽𝖎𝖙𝖚𝖆𝖑𝖘:  
-! 𝕬𝕎𝕾 | 𝕽𝖊𝖓𝖉𝖊𝖗 | 𝕹𝖊𝖙𝖑𝖎𝖋𝖞 | 𝕯𝖔𝖈𝖐𝖊𝖗
+**Frameworks:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-## 🦇 𝕮𝖔𝖛𝖊𝖓 𝕰𝖓𝖌𝖆𝖌𝖊𝖒𝖊𝖓𝖙𝖘
-# 🧙♂️ 𝕬𝖗𝖈𝖍𝖒𝖆𝖌𝖊 𝖔𝖋 𝕮𝖔𝖉𝖊 & 𝕬𝖑𝖈𝖍𝖊𝖒𝖞 (2024-𝕻𝖗𝖊𝖘𝖊𝖓𝖙)
-! 𝕷𝖊𝖆𝖉𝖎𝖓𝖌 𝖙𝖍𝖊 "𝕭𝖊𝖘𝖙 𝕭𝖞 𝕹𝖔𝖙𝖎𝖘" 𝖘𝖈𝖗𝖔𝖑𝖑 - 𝖆 �𝖊𝖇 𝖆𝖕𝖕 𝖙𝖍𝖆𝖙 𝖕𝖗𝖊𝖉𝖎𝖈𝖙𝖘 𝖋𝖔𝖔𝖉 𝖘𝖕𝖔𝖎𝖑𝖆𝖌𝖊  
-! 𝕸𝖊𝖓𝖙𝖔𝖗𝖎𝖓𝖌 𝖆𝖈𝖔𝖑𝖞𝖙𝖊𝖘 𝖎𝖓 𝖙𝖍𝖊 �𝖆𝖞𝖘 𝖔𝖋 𝕲𝖎𝖙 𝖆𝖓𝖉 𝕽𝖊𝖆𝖈𝖙 𝕾𝖕𝖊𝖑𝖑𝖈𝖆𝖘𝖙𝖎𝖓𝖌
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-# 🔗 𝕮𝖍𝖆𝖎𝖓𝖐𝖊𝖊𝖕𝖊𝖗 𝖔𝖋 𝕸𝖔𝖇𝖎𝖑𝖊 𝕽𝖊𝖑𝖎𝖈𝖘 (2023-2024)
-! 𝕱𝖔𝖗𝖌𝖊𝖉 𝖆 𝖈𝖆𝖗 𝖘𝖊𝖈𝖚𝖗𝖎𝖙𝖞 𝖆𝖕𝖕 𝖚𝖘𝖎𝖓𝖌 𝕽𝖊𝖆𝖈𝖙 𝕹𝖆𝖙𝖎𝖛𝖊'𝖘 𝖊𝖑𝖉𝖗𝖎𝖙𝖈𝖍 𝖘𝖈𝖗𝖔𝖑𝖑𝖘
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-# 🔮 𝕲𝖊𝖗𝖔𝖓𝖙𝖊𝖈𝖍 𝕽𝖎𝖙𝖚𝖆𝖑𝖎𝖘𝖙 (2023-2024)
-! 𝕬𝖓𝖆𝖑𝖞𝖟𝖊𝖉 𝖊𝖑𝖉𝖊𝖗𝖑𝖞 𝖒𝖔𝖙𝖎𝖔𝖓𝖘 𝖙𝖔 𝖙𝖗𝖆𝖎𝖓 𝕬𝕴 𝖉𝖊𝖒𝖔𝖓𝖘
+## 🛠 Experience
 
-## 🔮 𝕱𝖔𝖗𝖇𝖎𝖉𝖉𝖊𝖓 𝕮𝖗𝖊𝖆𝖙𝖎𝖔𝖓𝖘
-+ 🕯️ 𝕭𝖊𝖘𝖙 𝕭𝖞 𝕹𝖊𝖈𝖗𝖔𝖒𝖆𝖓𝖈𝖞  
-! 𝕽𝖊𝖆𝖈𝖙.𝖏𝖘 | 𝕱𝖑𝖆𝖘𝖐 | 𝕻𝖔𝖘𝖌𝕽𝕰𝕾𝕷  
-! 𝕯𝖆𝖗𝖐 𝖕𝖗𝖊𝖉𝖎𝖈𝖙𝖎𝖔𝖓𝖘 𝖔𝖋 𝖋𝖔𝖔𝖉 𝖘𝖕𝖔𝖎𝖑𝖆𝖌𝖊  
-[🌑 View Ritual](https://best-by-notification.onrender.com/) | [💀 Code Bones](https://github.com/WSU-Software-Development-Club/best-by-notification)
+### **Project Manager & Lead Developer**  
+*WSU Software Development Club | Oct 2024 - Present*  
+- Lead development of Best By Notification web app (React/Flask)
+- Implement food expiration tracking and recipe suggestion features
+- Mentor team members in Git workflow and code reviews
 
-+ 🔍 𝕹𝖚𝖙𝖗𝖎𝕾𝖈𝖗𝖞 (𝕳𝖆𝖈𝖐𝖆𝖙𝖍𝖔𝖓 𝕯𝖊𝖒𝖔𝖓)  
-! 𝕹𝖊𝖝𝖙.𝖏𝖘 | 𝕿𝖆𝖎𝖑𝖜𝖎𝖓𝖉𝕮𝕾𝕾 | 𝕱𝖎𝖌𝖒𝖆  
-! 𝕾𝖈𝖆𝖓𝖘 𝖓𝖚𝖙𝖗𝖎𝖙𝖎𝖔𝖓 𝖑𝖆𝖇𝖊𝖑𝖘 𝖋𝖔𝖗 𝖉𝖆𝖗𝖐 𝖕𝖆𝖙𝖍𝖔𝖌𝖊𝖓𝖘  
-[🌑 Cursed Demo](https://nutriscan-ruby.vercel.app/welcome) | [💀 Blood Pact](https://github.com/KhangMBui/NutriScan)
+### **Front-End Developer Intern**  
+*Avolta Canada | Nov 2023 - Jul 2024*  
+- Developed cross-platform car security app using React Native
+- Implemented user authentication and UI components
 
-+ 🌩️ 𝕎𝖊𝖆𝖙𝖍𝖊𝖗𝖎𝖓𝖌 𝖂𝖎𝖙𝖍 𝕸𝖊 (𝕾𝖙𝖔𝖗𝖒𝖈𝖆𝖑𝖑𝖊𝖗 𝕰𝖉𝖎𝖙𝖎𝖔𝖓)  
-! 𝕰𝖝𝖕𝖗𝖊𝖘𝖘.𝖏𝖘 | 𝕰𝕵𝕾 | 𝕿𝖆𝖎𝖑𝖜𝖎𝖓𝖉𝕮𝕾𝕾  
-! 𝕮𝖔𝖓𝖏𝖚𝖗𝖘 𝖜𝖊𝖆𝖙𝖍𝖊𝖗 𝖉𝖊𝖒𝖔𝖓𝖘 𝖋𝖗𝖔𝖒 𝖙𝖍𝖊 𝖆𝖇𝖞𝖘𝖘  
-[💀 Code Bones](https://github.com/KhangMBui/Weathering-With-Me)
+## 🚀 Projects
 
-## 🏆 𝕭𝖑𝖆𝖈𝖐𝖊𝖓𝖊𝖉 𝕬𝖈𝖍𝖎𝖊𝖛𝖊𝖒𝖊𝖓𝖙𝖘
-+ 🖤 𝕯𝖎𝖌𝖎𝖙𝖆𝖑 𝕬𝖌𝕬𝕴𝕯 𝕳𝖔𝖗𝖗𝖔𝖗 (2025)  
-! 2𝖓𝖉 𝕻𝖗𝖎𝖟𝖊: 𝕾𝖓𝖔𝖜𝖕𝖆𝖈𝖐 𝕻𝖗𝖊𝖉𝖎𝖈𝖙𝖎𝖔𝖓 𝖂𝖎𝖙𝖍 𝕷𝕾𝕿𝕸 𝕯𝖊𝖒𝖔𝖓𝖘  
-[📜 Dark Scroll](https://badgr.com/public/assertions/lpGheFBkSoqMjw1FWCNg0g)
+### [Best By Notification](https://best-by-notification.onrender.com)
+![React](https://img.shields.io/badge/-React-61DAFB) ![Flask](https://img.shields.io/badge/-Flask-000000)  
+Food expiration tracking system with recipe suggestions  
+[GitHub](https://github.com/WSU-Software-Development-Club/best-by-notification)
 
-+ ☠️ 𝕬𝕴 𝕱𝖔𝖗 𝕮𝖍𝖆𝖔𝖘 𝕳𝖆𝖈𝖐𝖆𝖙𝖍𝖔𝖓 (2024)  
-! 𝖂𝖎𝖓𝖓𝖊𝖗: 𝕹𝖚𝖙𝖗𝖎𝖙𝖎𝖔𝖓 𝕾𝖈𝖆𝖓𝖓𝖎𝖓𝖌 𝕯𝖊𝖒𝖔𝖓  
-[🔮 Ritual Documentation](https://devpost.com/software/nutriscan-z4owgh)
+### [NutriScan](https://nutriscan-ruby.vercel.app/welcome)
+![Next.js](https://img.shields.io/badge/-Next.js-000000) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC)  
+AI-powered nutrition label scanner (Hackathon Winner)  
+[GitHub](https://github.com/KhangMBui/NutriScan)
 
-## 🩸 𝕭𝖑𝖔𝖔𝖉 𝕻𝖆𝖈𝖙𝖘
-! 🖤 𝕭𝖑𝖔𝖔𝖉 𝕻𝖆𝖈𝖙: [khang.bui@wsu.edu](mailto:khang.bui@wsu.edu)  
-! 🔗 𝕾𝖔𝖚𝖑 𝕮𝖍𝖆𝖎𝖓: [LinkedIn](https://www.linkedin.com/in/khangmbui/)  
-! 💀 𝕮𝖔𝖉𝖊 𝕲𝖗𝖆𝖛𝖊𝖞𝖆𝖗𝖉: [GitHub](https://github.com/KhangMBui)  
-! 🌑 𝕯𝖆𝖗𝖐 𝕻𝖔𝖗𝖙𝖆𝖑: [Portfolio](https://khangmbuiportfolio.netlify.app/)  
+### Weathering With Me
+![Express.js](https://img.shields.io/badge/-Express.js-000000) ![EJS](https://img.shields.io/badge/-EJS-8A2BE2)  
+Real-time weather forecasting web application  
+[GitHub](https://github.com/KhangMBui/Weathering-With-Me)
 
-# 𝕿𝖍𝖊 𝖀𝖓𝖍𝖔𝖑𝖞 𝕸𝕴𝕿 𝕷𝖎𝖈𝖊𝖓𝖘𝖊  
-! 𝕯𝖔 𝖓𝖔𝖙 𝖗𝖊𝖕𝖗𝖔𝖉𝖚𝖈𝖊 𝖙𝖍𝖊𝖘𝖊 𝖘𝖕𝖊𝖑𝖑𝖘 𝖜𝖎𝖙𝖍𝖔𝖚𝖙 𝖕𝖗𝖔𝖕𝖊𝖗 𝖘𝖆𝖈𝖗𝖎𝖋𝖎𝖈𝖊
+## 🏆 Awards
+**2nd Place - Digital AgATH0N 2025**  
+Developed AI-powered snowpack prediction model using PyTorch  
+[Certificate](./assets/AgAIDCertificate.pdf)
 
+**Winner - AI For Change Hackathon 2024**  
+Created NutriScan nutrition analysis tool  
+[Devpost](https://devpost.com/software/nutriscan-z4owgh)
+
+## 📬 Contact
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khang.bui@wsu.edu)
+[![Resume](https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/KhangBui-Resume.pdf)
