@@ -1,6 +1,5 @@
 # 𝕯𝖗𝖊𝖆𝖉𝕾𝖈𝖗𝖔𝖑𝖑 𝖔𝖋 𝕶𝖍𝖆𝖓𝖌 𝕭𝖚𝖎  
 🔥 *Code Alchemist* | 🧪 *Digital Necromancer* | ⚡ *Full-Stack Warlock*  
-![Dark Sigil](./assets/profile-pic.png)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=70&lines=𝕴𝖓𝖛𝖔𝖐𝖎𝖓𝖌+𝕯𝖆𝖗𝖐+𝕮𝖔𝖉𝖊+𝕽𝖎𝖙𝖚𝖆𝖑𝖘;𝕮𝖔𝖓𝖏𝖚𝖗𝖎𝖓𝖌+𝕽𝖊𝖆𝖈𝖙𝖎𝖔𝖓𝖘+𝕯𝖆𝖎𝖑𝖞;𝕭𝖑𝖆𝖈𝖐+𝕸𝖆𝖌𝖎𝖈+𝕴𝖓+𝕯𝖎𝖌𝖎𝖙𝖆𝖑+𝕽𝖊𝖆𝖑𝖒𝖘" alt="Typing SVG" />
