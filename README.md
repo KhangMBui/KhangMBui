@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://khangmbuiportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/khangmbui/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
