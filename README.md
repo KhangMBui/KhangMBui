@@ -4,11 +4,17 @@
 <img width="500px" height="auto" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding mario"/>
 </div>
 
-<div align="center">
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://khangmbuiportfolio.netlify.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khangmbui)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhangMBui)
-</div>
+<p align="center">
+  <a href="https://khangmbuiportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/khangmbui/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/KhangMBui">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=khangmbui&style=flat-square&color=blue" alt=""/>
