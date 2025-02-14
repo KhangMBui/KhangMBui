@@ -1,7 +1,7 @@
 # ⭐️ Welcome to Khang's Github Page ⭐️
 
 <div align="center">
-<img width="500px" height="auto" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding mario"/>
+<img width="300px" height="auto" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding mario"/>
 </div>
 
 <p align="center">
