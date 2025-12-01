@@ -1,3 +1,17 @@
+<style>
+body {
+  background-color: #0d1117;
+  color: white;
+}
+h1, h2, h3, h4, h5, h6, p, li, span, a {
+  color: white;
+}
+a:hover {
+  color: #58a6ff;
+}
+</style>
+
+
 <div align="center">
   <h1>⭐️ Welcome to Khang’s GitHub Page ⭐️</h1>
   <img width="350px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding mario"/>
