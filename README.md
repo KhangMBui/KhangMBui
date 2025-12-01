@@ -1,18 +1,3 @@
-<!--START_SECTION:darkmode-->
-<style>
-body {
-  background-color: #0d1117;
-  color: white;
-}
-h1, h2, h3, h4, h5, h6, p, li, span, a {
-  color: white;
-}
-a:hover {
-  color: #58a6ff;
-}
-</style>
-<!--END_SECTION:darkmode-->
-
 <!-- Dark mode stylesheet for deployed site -->
 <link rel="stylesheet" href="assets/dark.css">
 <div align="center">
