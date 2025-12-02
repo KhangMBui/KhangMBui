@@ -9,7 +9,7 @@
   <a href="https://khangmbuiportfolio.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/khangmbui/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/KhangMBui"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="./KhangBui-Resume.pdf"><img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+  <a href="./KhangBui_Resume.pdf"><img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 </p>
 
 <div align="center">
